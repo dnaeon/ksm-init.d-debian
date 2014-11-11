@@ -1,0 +1,13 @@
+Source: ksm-init.d-debian
+Maintainer: Marin Atanasov Nikolov <dnaeon@gmail.com>
+Section: misc
+Priority: extra
+Standards-Version: 3.9.4
+Homepage: http://www.unix-heaven.org/
+Vcs-Git: git://github.com/dnaeon/ksm-init.d-debian.git
+Vcs-Browser: https://github.com/dnaeon/ksm-init.d-debian
+
+Package: ksm-init.d-debian
+Architecture: all
+Description: Enable kernel shared memory for KVM on debian or ubuntu
+ Package with init script for enabling kernel shared memory
